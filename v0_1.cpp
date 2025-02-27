@@ -32,6 +32,6 @@ int main() {
     cout << "\nPavarde    Vardas    Galutinis (" << (useMedian ? "Med." : "Vid.") << ")\n";
     cout << "----------------------------------------\n";
     for (auto &s : students) {
-        cout << std::left << std::setw(12) << s.name << std::setw(12)  << s.surname << "  " << std::fixed << std::setprecision(2) << s.calculateFinalGrade(useMedian) << endl;
+        cout << left << setw(12) << s.name << setw(12)  << s.surname << "  " << fixed << setprecision(2) << s.calculateFinalGrade(useMedian) << endl;
     }
 }

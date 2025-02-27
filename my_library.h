@@ -10,6 +10,12 @@ using std::endl;
 using std::vector;
 using std::string;
 using std::cin;
+using std::ifstream;
+using std::ofstream;
+using std::setw;
+using std::fixed;
+using std::setprecision;
+using std::left;
 
 struct Student {
     string name;
