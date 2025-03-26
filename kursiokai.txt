@@ -1,5 +1,0 @@
-Vardas                   Pavarde                  ND1       ND2       ND3       ND4       ND5       ND6       ND7       ND8       ND9       ND10      ND11      ND12      ND13      ND14      ND15      Egzaminas 
-Antanas                  Bockus                   4         5         6         5         4         3         7         8         9         8         9         8         9         8         9         5         
-Nojus                    Baravykas                5         6         7         8         7         6         5         4         3         2         1         1         1         2         3         3         
-Deividas                 Sabonis                  6         7         6         5         4         5         6         7         6         5         4         5         6         7         8         9         
-Jonas                    Gabalis                  8         5         8         3         3         7         3         10        2         3         7         5         6         3         5         3         
